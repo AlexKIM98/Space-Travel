@@ -12,7 +12,7 @@ const TrainingComp = () => {
         <div className='left'>
             <h1>Training</h1>
             <p>
-Be is part of the training and received a certification as an astronaut. You will learn everything you need to know and in case of an alien invasion you will be able to save your family.</p>
+Be part of the training and received a certification as an astronaut. You will learn everything you need to know and in case of an alien invasion you will be able to save your family.</p>
 <Link to='/contact'><button className='btn'>Contact</button></Link>
         </div>
 
